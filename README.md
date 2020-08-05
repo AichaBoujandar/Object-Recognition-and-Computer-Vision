@@ -1,2 +1,8 @@
 # Object-Recognition-and-Computer-Vision
-MVA course
+
+Link to the course website : https://www.di.ens.fr/willow/teaching/recvis19/
+
+HM1 : Instance-level Recognition
+HM2 : Neural networks
+HM3 : Classification using transfert learning
+Project : Study of SinGAN: Learning a Generative Model froma Single Natural Image
