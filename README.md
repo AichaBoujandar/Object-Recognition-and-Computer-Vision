@@ -8,4 +8,4 @@ HM2 : Neural networks
 
 HM3 : Classification using transfer learning
 
-Project : Study of SinGAN: Learning a Generative Model froma Single Natural Image
+Project : Study of SinGAN
